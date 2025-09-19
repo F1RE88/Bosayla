@@ -8,6 +8,7 @@
         
         body {
             background-color: #faf2ce;
+            font-family: "Playpen Sans Arabic", cursive;
             color: #333;
             line-height: 1.6;
         }
@@ -335,3 +336,4 @@
     display: flex;
 
 }
+
