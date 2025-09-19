@@ -178,12 +178,12 @@
         .about-image {
             flex: 1;
             min-width: 300px;
+            border-radius: 100px;
             height: 400px;
             background-color: #ddd;
             background-image: url('ico.jpeg');
             background-size: cover;
             background-position: center;
-            border-radius: 30px;
         }
         
         /* قسم الشهادات */
@@ -336,5 +336,6 @@
     display: flex;
 
 }
+
 
 
