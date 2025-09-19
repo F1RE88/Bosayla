@@ -1,4 +1,4 @@
-        /* أنماط عامة */
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Playpen+Sans+Arabic:wght@100..800&family=Rakkas&display=swap');
         * {
             margin: 0;
             padding: 0;
@@ -333,4 +333,5 @@
 .photos{
     text-align: center;
     display: flex;
+
 }
