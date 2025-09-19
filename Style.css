@@ -183,7 +183,7 @@
             background-image: url('ico.jpeg');
             background-size: cover;
             background-position: center;
-            border-radius: 8px;
+            border-radius: 30px;
         }
         
         /* قسم الشهادات */
@@ -336,4 +336,5 @@
     display: flex;
 
 }
+
 
