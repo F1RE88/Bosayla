@@ -177,7 +177,7 @@
         }
 
         
-        .about-image {
+        .about-image1{
             flex: 1;
             border-radius: 100px;
             height: 400px;
@@ -359,3 +359,4 @@
     background-color: #ffffff00;
     position: fixed;
 }
+
