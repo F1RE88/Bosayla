@@ -178,9 +178,9 @@
 
         
         .about-image1{
-            flex: 1;
             border-radius: 100px;
             height: 400px;
+            width: 600px;
             background-color: #ddd;
             background-image: url('photo.jpg');
             background-size: cover;
@@ -198,7 +198,6 @@
             background-position: center;
         }
 
-        /* قسم الشهادات */
         .testimonials {
             padding: 80px 0;
             background-color: #fff;
@@ -359,4 +358,10 @@
     background-color: #ffffff00;
     position: fixed;
 }
-
+.maps{
+    border-radius: 20px;
+    transition: 0.3 ease-in-out;
+}
+.maps:hover{
+    transform: scale(1.1);
+}
